@@ -4,6 +4,8 @@
 **xuanjin001/xuanjin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://github.com/anuraghazra/github-readme-stats#github-stats-card
 --> 
 
 - 🔭 I’m currently working on Salesforce coding
