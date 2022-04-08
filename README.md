@@ -15,6 +15,6 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 - 💬 Ask me about SFDC implementation and SFDC flow, automation, etc
 - 📫 How to reach me: @xjin530, twitter is the best way!! ping me!! 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: hard problems excites me a lot!
+- ⚡ Fun fact: hard problems excites me a lot! I am really hands on the problems. 
 
 ![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001&count_private=true)
