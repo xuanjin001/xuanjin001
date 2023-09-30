@@ -16,5 +16,8 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 - 📫 How to reach me: @xjin530, twitter is the best way!! ping me!! 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: hard problems excites me a lot! I am a hands on problem solver
-
+<!--
 ![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001&count_private=true)
+-->
+
+[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001)](https://github.com/xuanjin001/github-readme-stats)
