@@ -15,9 +15,11 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 - 💬 Ask me about SFDC implementation and SFDC flow, automation, etc
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xuan-jin-salesforce-solution-architect/), LinkedIn is the best way!! ping me!!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: hard problems excites me a lot! I am a hands on problem solver. I walk my talk! 
-<!--
-![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001&count_private=true)
--->
+- ⚡ Fun fact: hard problems excites me a lot! I am a hands on problem solver
 
-[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001)](https://github.com/xuanjin001/github-readme-stats)
+
+![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001&show_icons=true&theme=radical)
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
+<!--
+[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanjin001)](https://github.com/xuanjin001/github-readme-stats)--> 
