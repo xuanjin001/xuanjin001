@@ -9,7 +9,7 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 --> 
 
 - 🔭 I’m currently working on giving Hugo framework another shot LOL, creating a theme that works for me...I am also trying to learn more about baseball 
-- 🌱 I’m currently learning ... random things I have been reading on my internet, like design principals
+- 🌱 I’m currently learning ... vibe coding... 
 - 👯 I’m looking to collaborate on anything coding, I want to learn everything, mostly interested in Cloud related items. I am good with learning new subjects on the spot, so if you have anything that needs help, I can jump right into it
 - 🤔 I’m looking for help with api and integrations in general 
 - 💬 Ask me about ... random things and see if I know it? 
