@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
 --> 
 
-- 🔭 I’m currently working on giving Hugo framework another shot LOL, creating a theme that works for me...I am also trying to learn more about baseball 
-- 🌱 I’m currently learning ... vibe coding... 
-- 👯 I’m looking to collaborate on anything coding, I want to learn everything, mostly interested in Cloud related items. I am good with learning new subjects on the spot, so if you have anything that needs help, I can jump right into it
-- 🤔 I’m looking for help with api and integrations in general 
+- 🔭 I’m currently working on using OpenClaw to automate my daily life! 
+- 🌱 I’m currently learning AI and anything AI applications to enterprise and small companies, using AI and agents to automate business processes in a company 
+- 👯 I’m looking to collaborate on anything AI related. I am good with learning new subjects on the spot, so if you have anything that needs help, I can jump right into it
+- 🤔 I’m looking for help on AI hardware configurations, the hardware requirement is a bit hard to figure out 
 - 💬 Ask me about ... random things and see if I know it? 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xuan-jin-salesforce-solution-architect/), LinkedIn is the best way!! ping me!!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xuan-jin-agentic-automation/), LinkedIn is the best way!! ping me!!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: hard problems excites me a lot! I am a hands on problem solver
 
